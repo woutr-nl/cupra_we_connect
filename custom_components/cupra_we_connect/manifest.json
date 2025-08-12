@@ -9,7 +9,7 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/daernsinstantfortress/cupra_we_connect/issues",
   "requirements": [
-    "weconnect-cupra @ git+https://github.com/woutr-nl/weconnect_cupra@v0.1.0-hotfix1",
+    "weconnect-cupra @ https://github.com/woutr-nl/WeConnect-Cupra-python/archive/refs/tags/v0.1.0-hotfix1.tar.gz",
     "ascii_magic==2.1.1"
   ],
   "ssdp": [],
